@@ -1,4 +1,15 @@
-### Hi there 👋
+# Wellcome To My Github Profile. 👋
+___
+# Introduce
+**Name** | Chedsada Pongam<br>
+**Nickname** | Nut<br>
+**AKA** | Chamoys , Ramyong , Dev.Rebirth<br>
+**Birthday** | 27/07/20xx
+
+___
+# Educational record
+Graduated From
+> Watnoenkhaodin School , Chamnansamakkhiwitthaya School
 
 <!--
 **ChamoyZ/ChamoyZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
