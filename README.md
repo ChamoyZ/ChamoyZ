@@ -1,15 +1,23 @@
 # Wellcome To My Github Profile. 👋
-___
 # Introduce
 **Name** | Chedsada Pongam<br>
 **Nickname** | Nut<br>
 **AKA** | Chamoys , Ramyong , Dev.Rebirth<br>
 **Birthday** | 27/07/20xx
 
-___
-# Educational record
-Graduated From
-> Watnoenkhaodin School , Chamnansamakkhiwitthaya School
+### ผลงานล่าสุด<br>
+**-- Owner , Developer --** 
+> [SAMP] Scottish City | Newlife<br>
+
+**-- Staff --** 
+> [SAMP] Someday Mobile.
+
+# Follow Me!!!
+[Facebook](https://www.facebook.com/phtgrapher.official)<br>
+[Discord](https://discord.gg/vvGmKQYNS2)<br>
+[Youtube](https://www.youtube.com/channel/UCYCddxi1qNIKON2a8Gi07-A)
+
+
 
 <!--
 **ChamoyZ/ChamoyZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
