@@ -5,17 +5,26 @@
 **AKA** | Chamoys , Ramyong , Dev.Rebirth<br>
 **Birthday** | 27/07/20xx
 
-### ผลงานล่าสุด<br>
-**-- Owner , Developer --** 
-> [SAMP] Scottish City | Newlife<br>
+# **Hobby**
+Develop and fix client-side and server-side systems.<br>
+Playgame CS2,Valorent
 
-**-- Staff --** 
-> [SAMP] Someday Mobile.
+### ผลงานล่าสุด 🌸🌸<br>
+**-- Owner , Developer --** 
+> [SAMP] Scottish City<br>
+
+**-- Staff --** 🌸🌸
+> [SAMP] Someday Mobile.<br>
+> [SAMP] Nolimit City (Developer Client)
 
 # Follow Me!!!
 [Facebook](https://www.facebook.com/phtgrapher.official)<br>
 [Discord](https://discord.gg/vvGmKQYNS2)<br>
-[Youtube](https://www.youtube.com/channel/UCYCddxi1qNIKON2a8Gi07-A)
+[Youtube](https://www.youtube.com/channel/UCYCddxi1qNIKON2a8Gi07-A)<br>
+<br>
+<br>
+# Attitude
+Focus on developing, not copying.
 
 
 
