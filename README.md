@@ -1,4 +1,5 @@
-<img align="right" height="200" src="./github-header-image.png"/>
+
+[![Header](https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png "Header")](#)
 
 <h3 align="center">I am a Python, Javascript, and Pawn programmer.</h3>
 <h6 align="center">Just Kidding.</h6>
