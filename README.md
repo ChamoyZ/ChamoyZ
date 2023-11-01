@@ -33,7 +33,7 @@ Playgame CS2,Valorent
 # Attitude
 Focus on developing, not copying.
 
-https://dcbadge.vercel.app/api/shield/423433157078024193
+![](https://dcbadge.vercel.app/api/shield/423433157078024193)
 
 
 
