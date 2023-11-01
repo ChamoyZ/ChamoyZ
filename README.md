@@ -20,12 +20,12 @@ Playgame CS2,Valorent
 > [SAMP] Someday Mobile.<br>
 > [SAMP] Nolimit City (Developer Client)
 
-# Follow Me!!!
-[Facebook](https://www.facebook.com/phtgrapher.official)<br>
-[Discord](https://discord.gg/vvGmKQYNS2)<br>
-[Youtube](https://www.youtube.com/channel/UCYCddxi1qNIKON2a8Gi07-A)<br>
-<br>
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/channel/UCYCddxi1qNIKON2a8Gi07-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="h4ck3dr4du" height="30" width="40" /></a>
+<a href="https://discord.gg/vvGmKQYNS2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Scottish City" height="30" width="40" /></a>
+<a href="https://www.facebook.com/phtgrapher.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chedsada Pongam" height="30" width="40" /></a>
+</p>
 # Attitude
 Focus on developing, not copying.
 
