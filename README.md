@@ -1,5 +1,8 @@
-
 [![Header](https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png "Header")](#)
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png" alt="Typing SVG" /></a>
+</p>
 
 <h3 align="center">I am a Python, Javascript, and Pawn programmer.</h3>
 <h6 align="center">Just Kidding.</h6>
