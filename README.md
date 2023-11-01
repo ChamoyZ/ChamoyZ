@@ -1,9 +1,3 @@
-
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png" alt="Typing SVG" /></a>
-</p>
-
 <p align="center">
 <a href="https://www.google.com"><img src="https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png" alt="Typing SVG" /></a>
 </p>
