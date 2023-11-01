@@ -2,6 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mali&size=25&pause=1000&center=true&vCenter=true&random=false&width=500&lines=%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7;ChamoyZ_)](https://git.io/typing-svg)
 </p>
 
+<p align="center">
+  <img src="[https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!](https://readme-typing-svg.demolab.com?font=Mali&size=25&pause=1000&center=true&vCenter=true&random=false&width=500&lines=%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7;ChamoyZ_)&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 # <h1 align="center">Wellcome To My Github Profile. 👋</h1>
 <h3 align="center">I am a Python, Javascript, and Pawn programmer.</h3>
 <h6 align="center">Just Kidding.</h6>
