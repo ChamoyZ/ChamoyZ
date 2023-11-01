@@ -24,7 +24,7 @@ Playgame CS2,Valorent
 <p align="left">
 <a href="https://www.youtube.com/channel/UCYCddxi1qNIKON2a8Gi07-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="h4ck3dr4du" height="30" width="40" /></a>
 <a href="https://discord.gg/vvGmKQYNS2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Scottish City" height="30" width="40" /></a>
-<a href="https://www.facebook.com/phtgrapher.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chedsada Pongam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/phtgrapher.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chedsada Pongam" height="30" width="40" /></a>
 </p>
 # Attitude
 Focus on developing, not copying.
