@@ -1,16 +1,13 @@
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mali&size=25&pause=1000&center=true&vCenter=true&random=false&width=500&lines=%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7;ChamoyZ_)](https://git.io/typing-svg)
-</p>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mali&size=25&pause=1000&center=true&vCenter=true&random=false&width=500&lines=%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7;ChamoyZ_" alt="Typing SVG" /></a>
-</p>
-
 # <h1 align="center">Wellcome To My Github Profile. 👋</h1>
 <h3 align="center">I am a Python, Javascript, and Pawn programmer.</h3>
 <h6 align="center">Just Kidding.</h6>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" alt="python" width="40" height="40"/> </a> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/418cbff54fe0ff385225ac464200a519c169c0fd3fb80402a8a9f977efd63c7a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" alt="python" width="40" height="40"/> </a> </p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mali&size=25&pause=1000&center=true&vCenter=true&random=false&width=500&lines=%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7;ChamoyZ_" alt="Typing SVG" /></a>
+</p>
 
 # Introduce
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/990550156397146132/1160488572546207784/sc.png"  />
