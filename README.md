@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png "Header")](#)
+
 
 <p align="center">
 <a href="https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png" alt="Typing SVG" /></a>
