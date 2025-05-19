@@ -1,63 +1,70 @@
+<!-- Header Image -->
 <p align="center">
-  <a href="https://www.google.com">
-    <img src="https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png" alt="ChamoyZ Header" />
-  </a>
+  <img src="https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png" width="100%" alt="ChamoyZ Banner" />
 </p>
 
-<h2 align="center">Hi there 👋, I'm ChamoyZ (Nut)</h2>
-<h4 align="center">Full-Stack Developer | Game Modder | Creative Thinker</h4>
-<p align="center"><i>"Focus on developing, not copying."</i></p>
-
----
-
-### 🎯 About Me
-- 🧑‍💻 **ชื่อจริง:** Chedsada Pongam (Nut)  
-- 🪪 **AKA:** ChamoyZ, Ramyong, Dev.Rebirth  
-- 🎂 **เกิดเมื่อ:** 27/07/20XX  
-- 💻 **เชี่ยวชาญ (นิดหน่อย):** Python, JavaScript, Pawn (SA-MP)  
-- 🎮 **เกมโปรด:** CS2, Valorant, PUBG  
-- 🔧 ชอบพัฒนาและแก้ไขระบบฝั่ง Client/Server  
-
----
-
-### 🔨 Languages & Tools
+<!-- Name & Bio -->
+<h1 align="center">Hi! I'm <span style="color:#ff66c4">ChamoyZ</span> 👾</h1>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/></a>
+  <strong>aka Nut / Ramyong / Dev.Rebirth</strong><br>
+  🧠 Full-Stack Developer | 🎮 Game Modder | 🎨 Digital Creator
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=600&size=24&pause=1200&center=true&vCenter=true&color=F97316&width=550&lines=ไม่มีใครดีเท่าแม่มึงแล้ว;Focus+on+Developing,+Not+Copying.;ChamoyZ_+Ready+to+Code!" />
 </p>
 
 ---
 
-### 🌸 My Projects
-#### 👑 Owner / Developer
-- [SAMP] **Scottish City**
-- [Roblox] **Lunar City**
+<!-- Profile Card -->
+<img align="right" height="160" src="https://cdn.discordapp.com/attachments/990550156397146132/1160488572546207784/sc.png" />
 
-#### 🌟 Staff / Contributor
-- [SAMP] **Someday Mobile**  
-- [SAMP] **Nolimit City** (Client Developer)
+### 🧾 Who Am I?
+- 👤 **Name:** Chedsada Pongam  
+- 🎂 **Birthday:** 27 / 07 / 20XX  
+- 🕶️ **Nickname:** Nut  
+- 🔥 **Stack:** JavaScript, Python, Pawn, SA-MP  
+- 🧩 **Hobbies:** Coding client/server systems, playing CS2 & Valorant
 
 ---
 
-### 📌 Latest Typing Mood
+### ⚒️ Tech Stack & Tools
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Mali&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=ไม่มีใครดีเท่าแม่มึงแล้ว;ChamoyZ_จริงใจทุกบรรทัด" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
 
 ---
 
-### 📬 Contact Me
+### 🏆 Latest Projects
+
+#### 👑 Owner & Developer
+- 🛠️ [SAMP] **Scottish City**
+
+#### 🌸 Staff / Contributor
+- 📱 [SAMP] **Someday Mobile**  
+- 🔧 [SAMP] **Nolimit City** *(Client Developer)*
+
+---
+
+### 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UCYCddxi1qNIKON2a8Gi07-A" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="30" />
-  </a>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="30" />
+  </a>
+  &nbsp;
   <a href="https://discord.gg/vvGmKQYNS2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" />
-  </a>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" height="30" />
+  </a>
+  &nbsp;
   <a href="https://www.facebook.com/phtgrapher.official" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" />
   </a>
 </p>
 
@@ -65,4 +72,11 @@
 
 <p align="center">
   <img src="https://dcbadge.vercel.app/api/shield/423433157078024193" />
+</p>
+
+---
+
+<!-- Footer Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=Thanks+for+visiting!+;Let's+build+something+great+%F0%9F%9A%80" />
 </p>
