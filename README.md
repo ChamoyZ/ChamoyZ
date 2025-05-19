@@ -1,61 +1,68 @@
 <p align="center">
-<a href="https://www.google.com"><img src="https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png" alt="Typing SVG" /></a>
+  <a href="https://www.google.com">
+    <img src="https://raw.githubusercontent.com/ChamoyZ/ChamoyZ/main/github-header-image.png" alt="ChamoyZ Header" />
+  </a>
 </p>
 
-<h3 align="center">I am a Python, Javascript, and Pawn programmer.</h3>
-<h6 align="center">Just Kidding.</h6>
+<h2 align="center">Hi there 👋, I'm ChamoyZ (Nut)</h2>
+<h4 align="center">Full-Stack Developer | Game Modder | Creative Thinker</h4>
+<p align="center"><i>"Focus on developing, not copying."</i></p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" alt="python" width="40" height="40"/> </a> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/418cbff54fe0ff385225ac464200a519c169c0fd3fb80402a8a9f977efd63c7a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🎯 About Me
+- 🧑‍💻 **ชื่อจริง:** Chedsada Pongam (Nut)  
+- 🪪 **AKA:** ChamoyZ, Ramyong, Dev.Rebirth  
+- 🎂 **เกิดเมื่อ:** 27/07/20XX  
+- 💻 **เชี่ยวชาญ (นิดหน่อย):** Python, JavaScript, Pawn (SA-MP)  
+- 🎮 **เกมโปรด:** CS2, Valorant, PUBG  
+- 🔧 ชอบพัฒนาและแก้ไขระบบฝั่ง Client/Server  
+
+---
+
+### 🔨 Languages & Tools
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/></a>
+</p>
+
+---
+
+### 🌸 My Projects
+#### 👑 Owner / Developer
+- [SAMP] **Scottish City**
+- [Roblox] **Lunar City**
+
+#### 🌟 Staff / Contributor
+- [SAMP] **Someday Mobile**  
+- [SAMP] **Nolimit City** (Client Developer)
+
+---
+
+### 📌 Latest Typing Mood
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Mali&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=ไม่มีใครดีเท่าแม่มึงแล้ว;ChamoyZ_จริงใจทุกบรรทัด" />
+</p>
+
+---
+
+### 📬 Contact Me
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCYCddxi1qNIKON2a8Gi07-A" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="30" />
+  </a>&nbsp;
+  <a href="https://discord.gg/vvGmKQYNS2" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/phtgrapher.official" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+  </a>
+</p>
+
+---
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mali&size=25&pause=1000&center=true&vCenter=true&random=false&width=500&lines=%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7;ChamoyZ_" alt="Typing SVG" /></a>
+  <img src="https://dcbadge.vercel.app/api/shield/423433157078024193" />
 </p>
-
-# Introduce
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/990550156397146132/1160488572546207784/sc.png"  />
-**Name** | Chedsada Pongam<br>
-**Nickname** | Nut<br>
-**AKA** | Chamoys , Ramyong , Dev.Rebirth<br>
-**Birthday** | 27/07/20xx
-
-# **Hobby**
-Develop and fix client-side and server-side systems.<br>
-Playgame CS2,Valorent
-
-### ผลงานล่าสุด 🌸🌸<br>
-**-- Owner , Developer --** 
-> [SAMP] Scottish City<br>
-
-**-- Staff --** 🌸🌸
-> [SAMP] Someday Mobile.<br>
-> [SAMP] Nolimit City (Developer Client)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCYCddxi1qNIKON2a8Gi07-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="h4ck3dr4du" height="30" width="40" /></a>
-<a href="https://discord.gg/vvGmKQYNS2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Scottish City" height="30" width="40" /></a>
-<a href="https://www.facebook.com/phtgrapher.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chedsada Pongam" height="30" width="40" /></a>
-</p>
-
-# Attitude
-Focus on developing, not copying.
-
-![](https://dcbadge.vercel.app/api/shield/423433157078024193)
-
-
-
-<!--
-**ChamoyZ/ChamoyZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
